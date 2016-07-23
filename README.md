@@ -1,4 +1,4 @@
-# php
+# php- class-database
 Clase en PHP para la conexion y gestion de base de datos.
 
 
