@@ -10,8 +10,8 @@ class/| Directorio de las clases.
 class/db-class| Clases y configuraciones necesarias.
 
 
-**Version 1.0**, July 2016
-__Carlos Anselmi 23/07/2016__
+<div align="center"> **Version 1.0**, July 2016
+__Carlos Anselmi 23/07/2016__ </div>
 
 
 ![Alt text]( "Optional title")
